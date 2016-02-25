@@ -1,6 +1,6 @@
 # Tropo WebAPI Shipped Buildpack
 
-This is new sample application to demonstrate how to build, deploy, run and iterate Tropo web API based application Shipped.
+This is a sample application to demonstrate how to build, deploy, run and iterate Tropo web API based application Shipped.
 ![](./images/tropo_shipped.png)
 Following section provide more details and links to Tropo and how to register application endpoint once deployed it is deployed on Shipped.
 
